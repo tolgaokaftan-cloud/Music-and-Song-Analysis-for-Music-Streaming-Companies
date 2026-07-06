@@ -20,3 +20,6 @@ Can we identify clusters of songs based on their audio features?
 
 Please see the link of the whole project below:
 https://tolgaokaftan-cloud.github.io/Music-and-Song-Analysis-for-Music-Streaming-Companies/
+
+Reference of the dataset:
+Reddy, S.C. (2026). Spotify Tracks Dataset | Audio Features. [online] Kaggle.com. Available at: https://www.kaggle.com/datasets/saichaitanyareddyai/spotify-tracks-dataset-audio-features/data [Accessed 25 Mar. 2026].
